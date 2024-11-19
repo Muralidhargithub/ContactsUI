@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		37E0C81C2CEC524800577D36 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		37E0C81C2CEC524800577D36 /* ContactListUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactListUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		37E0C82E2CEC524A00577D36 /* Exceptions for "ToDoList" folder in "ToDoList" target */ = {
+		37E0C82E2CEC524A00577D36 /* Exceptions for "ToDoList" folder in "ContactListUI" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 37E0C81B2CEC524800577D36 /* ToDoList */;
+			target = 37E0C81B2CEC524800577D36 /* ContactListUI */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -24,7 +24,7 @@
 		37E0C81E2CEC524800577D36 /* ToDoList */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				37E0C82E2CEC524A00577D36 /* Exceptions for "ToDoList" folder in "ToDoList" target */,
+				37E0C82E2CEC524A00577D36 /* Exceptions for "ToDoList" folder in "ContactListUI" target */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		37E0C81D2CEC524800577D36 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				37E0C81C2CEC524800577D36 /* ToDoList.app */,
+				37E0C81C2CEC524800577D36 /* ContactListUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		37E0C81B2CEC524800577D36 /* ToDoList */ = {
+		37E0C81B2CEC524800577D36 /* ContactListUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 37E0C82F2CEC524A00577D36 /* Build configuration list for PBXNativeTarget "ToDoList" */;
+			buildConfigurationList = 37E0C82F2CEC524A00577D36 /* Build configuration list for PBXNativeTarget "ContactListUI" */;
 			buildPhases = (
 				37E0C8182CEC524800577D36 /* Sources */,
 				37E0C8192CEC524800577D36 /* Frameworks */,
@@ -76,11 +76,11 @@
 			fileSystemSynchronizedGroups = (
 				37E0C81E2CEC524800577D36 /* ToDoList */,
 			);
-			name = ToDoList;
+			name = ContactListUI;
 			packageProductDependencies = (
 			);
 			productName = ToDoList;
-			productReference = 37E0C81C2CEC524800577D36 /* ToDoList.app */;
+			productReference = 37E0C81C2CEC524800577D36 /* ContactListUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 37E0C8172CEC524800577D36 /* Build configuration list for PBXProject "ToDoList" */;
+			buildConfigurationList = 37E0C8172CEC524800577D36 /* Build configuration list for PBXProject "ContactListUI" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				37E0C81B2CEC524800577D36 /* ToDoList */,
+				37E0C81B2CEC524800577D36 /* ContactListUI */,
 			);
 		};
 /* End PBXProject section */
@@ -314,7 +314,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		37E0C8172CEC524800577D36 /* Build configuration list for PBXProject "ToDoList" */ = {
+		37E0C8172CEC524800577D36 /* Build configuration list for PBXProject "ContactListUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				37E0C8322CEC524A00577D36 /* Debug */,
@@ -323,7 +323,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		37E0C82F2CEC524A00577D36 /* Build configuration list for PBXNativeTarget "ToDoList" */ = {
+		37E0C82F2CEC524A00577D36 /* Build configuration list for PBXNativeTarget "ContactListUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				37E0C8302CEC524A00577D36 /* Debug */,
